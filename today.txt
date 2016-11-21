@@ -8,4 +8,7 @@ Prakhar
 Redo the command in the file.
 India VS Pakistan
 Today is Saturday and learning git pull request. 
+<<<<<<< HEAD
 Pradeep Kumar
+=======
+>>>>>>> c0ad0112155e7805f4fa4d1975a32a5a46a530e4
